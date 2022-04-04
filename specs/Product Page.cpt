@@ -1,0 +1,49 @@
+# Anasayfadan Kategoriler Butonuna Tiklanir
+*"com.ozdilek.ozdilekteyim:id/nav_categories" ID'li Kategoriler Butonuna Tıklanır
+*"3000" MiliSaniye Kadar Beklenir
+# Kategoriler Sayfasinin Acildigi Dogrulanir
+*"com.ozdilek.ozdilekteyim:id/relLayTop" ile Kategoriler Sayfasının Açıldığı Doğrulanır
+*"6000" MiliSaniye Kadar Beklenir
+# Acilan Menuden Kadin Secenegine Tiklanir
+*"(//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'])[2]" ile Menüden Kadın Seçeneğine Tıklanır
+*"5000" MiliSaniye Kadar Beklenir
+# Acilan Menuden Pantolon Kategorisine Tiklanir
+*"(//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'])[14]" ile Pantolon Kategorisine tıklanır
+*"3000" MiliSaniye Kadar Beklenir
+# Sayfa Asagi Yonde Her Seferinde '1' Ekran Boyutunda Olmak Uzere '2' Kere Kaydirilir
+*Sayfa Aşağı Kaydırılır
+*"1000" MiliSaniye Kadar Beklenir
+*Sayfa Aşağı Kaydırılır
+*"1000" MiliSaniye Kadar Beklenir
+# Rastgele Urun Secimi Yapilir
+*Rastgele Ürün Seçimi Yapılır
+*"3000" MiliSaniye Kadar Beklenir
+# Urun Detaylari Sayfasinin Acildigi Dogrulanir
+*"com.ozdilek.ozdilekteyim:id/iv" ile Ürün Detayları Sayfasının Açıldığı Doğrulanır
+*"3000" MiliSaniye Kadar Beklenir
+# Acilan Urun Favoriler Butonuna Basilarak Favorilere Eklenir
+*"com.ozdilek.ozdilekteyim:id/imgFav" ID'li Favoriler Butonuna Tıklanır
+*"3000" MiliSaniye Kadar Beklenir
+# Giris Yap Sayfasinin Acildigi Dogrulanir
+*"com.ozdilek.ozdilekteyim:id/btnLogin" ile Giris Yap Sayfasının Açıldığı Doğrulanır
+*"3000" MiliSaniye Kadar Beklenir
+# Kullanici Adi Bilgileri Girilir
+*"com.ozdilek.ozdilekteyim:id/etEposta" ID'li Kullanıcı Adı Kısmına "TestAccountID" Girilir
+*"3000" MiliSaniye Kadar Beklenir
+# Sifre Bilgileri Girilir
+*"com.ozdilek.ozdilekteyim:id/etPassword" ID'li Şifre Kısmına "TestAccountPass" Girilir
+*"3000" MiliSaniye Kadar Beklenir
+# '2' Kere Geri Git Butonuna Basilir
+*"com.ozdilek.ozdilekteyim:id/ivBack" ID'li Geri Git Butonuna Tıklanır
+*"3000" MiliSaniye Kadar Beklenir
+*"com.ozdilek.ozdilekteyim:id/ivBack" ID'li Geri Git Butonuna Tıklanır
+*"3000" MiliSaniye Kadar Beklenir
+# Acilan Sayfadan Rastgele Urun Secimi Yapilir
+*Rastgele Ürün Seçimi Yapılır
+*"3000" MiliSaniye Kadar Beklenir
+# Urun Bedeni Rastgele Seçilir
+* Rastgele Beden Seçimi Yapılır
+*"3000" MiliSaniye Kadar Beklenir
+# Secilen Urun Sepete Eklenir
+*"com.ozdilek.ozdilekteyim:id/relLayAddCardBtn" ID'li Sepete Ekle Butonuna Tıklanır
+*"5000" MiliSaniye Kadar Beklenir

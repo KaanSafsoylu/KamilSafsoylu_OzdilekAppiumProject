@@ -1,0 +1,12 @@
+Created by Kamil Safsoylu on 3.04.2022
+
+# Uygulamanin Acildigi Kontrol Edilir
+*"6000" MiliSaniye Kadar Beklenir
+*"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" ile Uygulamanın Açıldığı Kontrol Edilir
+*"5000" MiliSaniye Kadar Beklenir
+# Alisverise Basla Butonuna Tiklanir
+*"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" ID'li Alışverişe Başla Butonuna Tıklanır
+*"5000" MiliSaniye Kadar Beklenir
+# Alisveris Sayfasinin Acildigi Dogrulanir
+*"com.ozdilek.ozdilekteyim:id/relLayMic" ile Alışveriş Sayfasının Açıldığı Doğrulanır
+*"5000" MiliSaniye Kadar Beklenir
